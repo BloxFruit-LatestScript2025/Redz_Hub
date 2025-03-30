@@ -5,5 +5,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/Script2/refs
 --------
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/Script2/refs/heads/main/Source"))()
-
-For Mobile Copy & Paste ↑↑↑
